@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://datocms-hugo-example.netlify.com/"
 languageCode = "en-us"
 
 [taxonomies]
