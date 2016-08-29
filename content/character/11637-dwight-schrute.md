@@ -1,8 +1,10 @@
 +++
-actor_name = "Rainn Wilson"
-image_url = "https://dato-images.imgix.net/151/1471782495-dwight1.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+actorname = "Rainn Wilson"
+episodes = "187\n"
+image_url = "https://dato-images.imgix.net/151/1471782495-dwight1.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
+thumbnail_url = "https://dato-images.imgix.net/151/1471782495-dwight1.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
 title = "Dwight Schrute"
-
+weight = 2
 +++
 
 As Assistant to the Regional Manager, this Amish beet farmer never missed an opportunity to exert his imagined power. Dwight started off as just another suck up who thought he was more important than he was. There is a Dwight in every work place. Dwight was Michael’s right hand man for most of the show so it was hard to imagine how he would function after Michael moved to Colorado, but he did his best to carry on.

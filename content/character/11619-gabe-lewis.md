@@ -1,8 +1,10 @@
 +++
-actor_name = "Zach Woods"
-image_url = "https://dato-images.imgix.net/151/1471782404-gabe.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+actorname = "Zach Woods"
+episodes = "51\n"
+image_url = "https://dato-images.imgix.net/151/1471782404-gabe.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
+thumbnail_url = "https://dato-images.imgix.net/151/1471782404-gabe.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
 title = "Gabe Lewis"
-
+weight = 20
 +++
 
 Gabe Lewis takes over as Michael’s supervisor in “Sabre” where Dunder Mifflin was bought out by a printer manufacturer. Even though his is a corporate employee, he has no real power in the Scranton branch. The Dunder Mifflin employees know they don’t have to listen to him and don’t respect him.

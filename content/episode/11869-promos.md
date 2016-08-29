@@ -1,8 +1,14 @@
 +++
-episode_number = 18
-image_url = "https://dato-images.imgix.net/151/1471788847-wgOtvSuM8YgSv9cmlfWvZ7XGdIp.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+category = "Season 9"
+date = "2013-04-04"
+director = "Jennifer Celotta"
+episodenumber = 18
+imageurl = "https://dato-images.imgix.net/151/1471788847-wgOtvSuM8YgSv9cmlfWvZ7XGdIp.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+palette_url = "https://dato-images.imgix.net/151/1471788847-wgOtvSuM8YgSv9cmlfWvZ7XGdIp.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
+rating = 7.8
+thumbnail_url = "https://dato-images.imgix.net/151/1471788847-wgOtvSuM8YgSv9cmlfWvZ7XGdIp.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "Promos"
-
+weight = 188
 +++
 
-Everyone in the office is excited when international promos for the documentary surface, but are soon horrified to discover how much candid filming has taken place. While everyone panics about their secrets being revealed, Pam reflects upon how much she and Jim have changed over the past nine years. Dwight makes Angela jealous when he starts dating a Brussels sprout farmer, who Clark suspects may be trying to lure Dwight into a scam. Andy battles rude comments on the Internet. Meanwhile, Jim and Darryl have a big meeting with Major League baseball player, Ryan Howard, who pitches a bizarre sci-fi sports movie about himself.
+The release of the documentary promos creates tension for the Dunder Mifflin employees, Dwight considers a business venture with his girlfriend's family, and Jim and Darryl have an awkward business meeting with baseball player Ryan Howard.

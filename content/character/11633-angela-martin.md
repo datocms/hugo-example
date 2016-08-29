@@ -1,8 +1,10 @@
 +++
-actor_name = "Angela Kinsey"
-image_url = "https://dato-images.imgix.net/151/1471782480-angela.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+actorname = "Angela Kinsey"
+episodes = "187\n"
+image_url = "https://dato-images.imgix.net/151/1471782480-angela.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
+thumbnail_url = "https://dato-images.imgix.net/151/1471782480-angela.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
 title = "Angela Martin"
-
+weight = 6
 +++
 
 Angela Martin is the cold-hearted head of accounting. A petite woman, she views her co-workers mostly as distractions. Angela is definitely not out to make friends. Often she shows open disdain for her co-workers, especially Kevin and Meredith. 

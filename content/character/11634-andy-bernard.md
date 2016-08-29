@@ -1,8 +1,10 @@
 +++
-actor_name = "Ed Helms"
-image_url = "https://dato-images.imgix.net/151/1471782483-andy.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+actorname = "Ed Helms"
+episodes = "152\n"
+image_url = "https://dato-images.imgix.net/151/1472162375-tumblr_m6etx3BiQ31qd3usgo1_500.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
+thumbnail_url = "https://dato-images.imgix.net/151/1472162375-tumblr_m6etx3BiQ31qd3usgo1_500.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
 title = "Andy Bernard"
-
+weight = 5
 +++
 
 Andy moved to Pennsylvania to work for Dunder Mifflin Scranton after the Stamford branch closed. He immediately begins sucking up to Michael much to the annoyance of his new co-workers.

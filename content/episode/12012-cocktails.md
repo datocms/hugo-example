@@ -1,8 +1,14 @@
 +++
-episode_number = 18
-image_url = "https://dato-images.imgix.net/151/1471789136-67jtBxhkSw84XYU2HhD5jCofXoV.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+category = "Season 3"
+date = "2007-02-22"
+director = "J.J. Abrams"
+episodenumber = 17
+imageurl = "https://dato-images.imgix.net/151/1471789136-67jtBxhkSw84XYU2HhD5jCofXoV.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+palette_url = "https://dato-images.imgix.net/151/1471789136-67jtBxhkSw84XYU2HhD5jCofXoV.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
+rating = 8.4
+thumbnail_url = "https://dato-images.imgix.net/151/1471789136-67jtBxhkSw84XYU2HhD5jCofXoV.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "Cocktails"
-
+weight = 45
 +++
 
-Michael and Jan reveal their hushed romance while attending a cocktail party at David Wallace's home. During the party, Jim finally meets Karen's ex. Meanwhile, the rest of the office staff booze it up during happy hour.
+While Michael and Jan go to their first Dunder Mifflin outing as an official couple, the office workers left behind go out for happy hour. During happy hour, Roy finds out that Jim and Pam kissed at Casino Night.

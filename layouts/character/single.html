@@ -1,0 +1,42 @@
+{{ partial "header.html" . }}
+
+<div class="wrap">
+  <div class="grid">
+    <div class="grid__cell grid__cell--20">
+      <section class="section section--left">
+        <h2 class="section__title">Characters</h2>
+        <ul class="nav">
+          {{ range (sort (where .Site.Pages "Section" "character") "Weight" "asc") }}
+            <li class="nav__item">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+    </div>
+    <div class="grid__cell grid__cell--80">
+      <section class="section">
+        <div class="character">
+          <div class="character__image">
+            {{ if .Params.image_url }}
+              <img src="{{ .Params.image_url }}" />
+            {{ end }}
+          </div>
+          <h1 class="character__title">{{ .Title }}</h1>
+          <ul class="meta">
+            <li class="meta__item">
+              <strong>Actor:</strong> {{ .Params.actorname }}
+            </li>
+            <li class="meta__item">
+              <strong>Number of episodes:</strong> {{ .Params.episodes }}
+          </ul>
+          <div class="character__content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{{ partial "footer.html" . }}

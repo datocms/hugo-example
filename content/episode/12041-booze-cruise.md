@@ -1,8 +1,14 @@
 +++
-episode_number = 1
-image_url = "https://dato-images.imgix.net/151/1471789195-lZxFPCbWswlffb2oIKdVmmr4gLg.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+category = "Season 2"
+date = "2006-01-05"
+director = "Ken Kwapis"
+episodenumber = 11
+imageurl = "https://dato-images.imgix.net/151/1471789195-lZxFPCbWswlffb2oIKdVmmr4gLg.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+palette_url = "https://dato-images.imgix.net/151/1471789195-lZxFPCbWswlffb2oIKdVmmr4gLg.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
+rating = 8.4
+thumbnail_url = "https://dato-images.imgix.net/151/1471789195-lZxFPCbWswlffb2oIKdVmmr4gLg.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "Booze Cruise"
-
+weight = 16
 +++
 
-Michael takes the entire Dunder Mufflin staff on a motivational cruise aboard a party boat on Lake Wallenpaupack, but his planned presentation is bogged down by numerous distractions, including a dance contest, limbo, snorkel shots, and the pushy Captain Jack. Jim and Katy's relationship hits the rocks as Roy and Pam finally set a wedding date.
+The Dunder Mifflin staff go on a mandatory "booze cruise" to hear Michael give a motivational talk.

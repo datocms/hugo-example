@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+<div class="wrap">
+  <section class="section">
+    <h2 class="section__title">Seasons</h2>
+    <div class="grid">
+    {{ range (sort (where .Data.Pages "Section" "season") "Title" "asc") }}
+      <div class="grid__cell grid__cell--33">
+        <a href="{{ .Permalink }}" class="season-preview">
+          <div class="season-preview__meta" style="background-image: url('{{ .Params.bg_url }}')">
+            <div class="season-preview__image">
+              <img src="{{ .Params.thumbnail_url }}" />
+            </div>
+            <h6 class="season-preview__title">{{ .Title }}</h6>
+            <div class="season-preview__description">
+              {{ .Params.excerpt }}
+            </div>
+          </div>
+        </a>
+      </div>
+      {{ end }}
+  </section>
+</div>
+
+{{ partial "footer.html" . }}

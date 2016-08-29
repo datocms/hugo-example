@@ -1,0 +1,48 @@
+{{ partial "header.html" . }}
+
+<div class="wrap">
+  <section class="section">
+    <h2 class="section__title">
+      Characters
+      <a class="button" href="/characters.html">View All</a>
+    </h2>
+
+    <div class="grid grid--center">
+      {{ range (first 10 (sort (where .Data.Pages "Section" "character") "Weight" "asc")) }}
+        <div class="grid__cell grid__cell--20">
+          {{ partial "character_preview.html" . }}
+        </div>
+      {{ end }}
+    </div>
+  </section>
+</div>
+
+<hr />
+
+<div class="wrap">
+  <section class="section">
+    <h2 class="section__title">About the serie</h2>
+    {{ .Site.Data.home.description }}
+  </section>
+</div>
+
+<hr />
+
+<div class="wrap">
+    <section class="section">
+      <h2 class="section__title">
+        Latest episodes
+        <a class="button" href="/episodes.html">View All</a>
+      </h2>
+      <div class="grid">
+      {{ range (first 6 (sort (where .Data.Pages "Section" "episode") "Weight" "asc")) }}
+        <div class="grid__cell grid__cell--33">
+          {{ partial "episode_preview.html" . }}
+        </div>
+      {{ end }}
+      </div>
+    </section>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

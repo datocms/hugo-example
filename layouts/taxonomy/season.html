@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+
+<section id="main">
+  <div>
+   <h1 id="title">{{ .Title }}</h1>
+    {{ $data := index .Site.Data.season (.Title | urlize) }}
+    {{ if $data.imageurl }}
+      <img src="{{ $data.imageurl }}">
+    {{ end }}
+    <div>
+      {{ $data.overview | markdownify }}
+    </div>
+    
+    {{ range .Data.Pages }}
+      <article>
+        <h1>
+          <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+        </h1>
+        <time>
+          <span class="month">{{ .Date | dateFormat "2006-01-02" }}</span>
+        </time>
+        <p>
+          Episode {{ .Params.episodenumber }}
+        </p>
+      </article>
+    {{ end }}
+  </div>
+</section>
+

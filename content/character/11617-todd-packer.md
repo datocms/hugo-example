@@ -1,8 +1,10 @@
 +++
-actor_name = "David Koechner"
-image_url = "https://dato-images.imgix.net/151/1471782397-todd-packer.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+actorname = "David Koechner"
+episodes = "15\n"
+image_url = "https://dato-images.imgix.net/151/1471782397-todd-packer.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
+thumbnail_url = "https://dato-images.imgix.net/151/1471782397-todd-packer.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
 title = "Todd Packer"
-
+weight = 22
 +++
 
 Todd Packer is an Outside Sales Rep for the Scranton branch. He is crass, rude and loves to tell inappropriate jokes, so Michael idolizes him for his bold sense of humor. Michael is the only Scranton employee who can stand him.

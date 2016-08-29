@@ -1,8 +1,10 @@
 +++
-actor_name = "Andy Buckley"
-image_url = "https://dato-images.imgix.net/151/1471782401-david-wallace.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+actorname = "Andy Buckley"
+episodes = "37\n"
+image_url = "https://dato-images.imgix.net/151/1471782401-david-wallace.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
+thumbnail_url = "https://dato-images.imgix.net/151/1471782401-david-wallace.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
 title = "David Wallace"
-
+weight = 21
 +++
 
 David Wallace is Dunder Mifflin’s CEO. He is calm, smart, and professional. He tends to show more patience with Michael, certainly more than Jan. He is based out of the New York office and does not get directly involved in Michael’s antics as much as Jan though.

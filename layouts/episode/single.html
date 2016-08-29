@@ -1,0 +1,59 @@
+{{ partial "header.html" . }}
+
+<div class="wrap">
+  <div class="grid">
+    <div class="grid__cell grid__cell--20">
+      <section class="section section--left">
+        <h2 class="section__title">Season episodes</h2>
+        <ul class="nav">
+          {{ range (sort (where (where .Site.Pages "Section" "episode") ".Params.category" .Params.category) "Weight" "asc") }}
+            <li class="nav__item">
+              <a href="{{ .Permalink }}">
+                {{ .Title }}
+                <div class="nav__item__details">
+                  Episode #{{ .Params.episodenumber }}
+                </div>
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    </div>
+    <div class="grid__cell grid__cell--80">
+      <section class="section">
+        <div class="character">
+          <div class="character__image">
+            {{ if isset .Params "imageurl" }}
+              <img src="{{ .Params.imageurl }}" />
+            {{ end }}
+          </div>
+          <h1 class="character__title">{{ .Title }}</h1>
+          <ul class="meta">
+            <li class="meta__item">
+              <strong>Season:</strong> {{ .Params.category }}
+            </li>
+            <li class="meta__item">
+              <strong>Episode number: </strong>{{ .Params.episodenumber }}
+            </li>
+            {{ if isset .Params "director" }}
+              <li class="meta__item">
+                <strong>Director: </strong>{{ .Params.director }}
+              </li>
+            {{ end }}
+            <li class="meta__item">
+              <strong>First aired:</strong> {{ .Date | dateFormat "2006-01-02" }}
+            </li>
+            <li class="meta__item">
+              <strong>Rating:</strong> {{ .Params.rating }}
+            </li>
+          </ul>
+          <div class="character__content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+<div class="wrap">
+  <section class="section">
+    <h2 class="section__title">Characters</h2>
+    <div class="grid">
+      {{ range (sort (where .Data.Pages "Section" "character") "Weight" "asc") }}
+        <div class="grid__cell grid__cell--20">
+          {{ partial "character_preview.html" . }}
+        </div>
+      {{ end }}
+    </div>
+  </section>
+</div>
+
+{{ partial "footer.html" . }}

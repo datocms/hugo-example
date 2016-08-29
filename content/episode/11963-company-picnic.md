@@ -1,8 +1,11 @@
 +++
-episode_number = 28
-image_url = nil
+category = "Season 5"
+date = "2009-05-14"
+director = "Ken Kwapis"
+episodenumber = 26
+rating = 8.8
 title = "Company Picnic"
-
+weight = 94
 +++
 
-At the Dunder Mifflin company picnic, Michael and Holly are reunited for the first time since their split and put on a show the attendees won't soon forget. The branches compete in a volleyball tournament.
+Michael runs into Holly at the company picnic, and the two of them accidentally reveal that the Buffalo branch is closing during a comedy skit before corporate has made the announcement.

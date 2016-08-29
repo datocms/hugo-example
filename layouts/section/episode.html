@@ -1,0 +1,43 @@
+{{ partial "header.html" . }}
+
+<div class="wrap">
+  <div class="grid">
+    <div class="grid__cell grid__cell--20">
+      <section class="section section--left">
+        <h2 class="section__title">Seasons</h2>
+        <ul class="nav">
+          {{ range (sort (where .Site.Pages "Section" "season") ".Params.Weight" "asc") }}
+            <li class="nav__item">
+              <a href="{{ .Permalink }}">
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    </div>
+    <div class="grid__cell grid__cell--80">
+      <section class="section">
+        <h2 class="section__title">Episodes</h2>
+        <div class="grid">
+          {{ range .Paginator.Pages }}
+            <div class="grid__cell grid__cell--50">
+              {{ partial "episode_preview.html" . }}
+            </div>
+          {{ end }}
+        </div>
+        <div class="pagination">
+          {{ if .Paginator.HasPrev }}
+            <a href="{{ .Paginator.Prev.URL }}" class="pagination__prev">Previous page</a>
+          {{ end }}
+
+          {{ if .Paginator.HasNext }}
+            <a href="{{ .Paginator.Next.URL }}" class="pagination__next">Next page</a>
+          {{ end }}
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

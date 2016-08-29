@@ -1,8 +1,13 @@
 +++
-episode_number = 5
-image_url = "https://dato-images.imgix.net/151/1471789030-cw6CCh27Z4LdKSMSaE9cgxQnrdJ.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+category = "Season 6"
+date = "2009-10-08"
+episodenumber = 5
+imageurl = "https://dato-images.imgix.net/151/1471789030-cw6CCh27Z4LdKSMSaE9cgxQnrdJ.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+palette_url = "https://dato-images.imgix.net/151/1471789030-cw6CCh27Z4LdKSMSaE9cgxQnrdJ.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
+rating = 8.8
+thumbnail_url = "https://dato-images.imgix.net/151/1471789030-cw6CCh27Z4LdKSMSaE9cgxQnrdJ.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "Niagara (2)"
-
+weight = 99
 +++
 
 Pam is forced to deal with Andy's scrotal injury on her wedding night, while Kevin deals with the loss of his dress shoes on the morning of Jim and Pam's wedding.

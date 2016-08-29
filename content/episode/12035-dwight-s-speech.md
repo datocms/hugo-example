@@ -1,8 +1,14 @@
 +++
-episode_number = 17
-image_url = "https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9piZBltOL.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+category = "Season 2"
+date = "2006-03-02"
+director = "Charles McDougall"
+episodenumber = 17
+imageurl = "https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9piZBltOL.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+palette_url = "https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9piZBltOL.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
+rating = 8.3
+thumbnail_url = "https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9piZBltOL.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "Dwight's Speech"
-
+weight = 22
 +++
 
-Dwight must confront his fear of public speaking when he is named Dunder Mifflin's Salesman of the Year. Pam gets wrapped up with wedding plans, but Jim has plans of a different sort: an escape route for long enough so that he doesn't have to witness Pam's wedding. The staffers battle it out over control of the thermostat.
+Michael coaches pompous Dwight on the finer art of public speaking after being named as Salesman of the Year.

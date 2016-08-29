@@ -1,8 +1,10 @@
 +++
-actor_name = "Melora Hardin"
-image_url = "https://dato-images.imgix.net/151/1471782419-jan.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
+actorname = "Melora Hardin"
+episodes = "42\n"
+image_url = "https://dato-images.imgix.net/151/1471782419-jan.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
+thumbnail_url = "https://dato-images.imgix.net/151/1471782419-jan.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
 title = "Jan Levinson"
-
+weight = 18
 +++
 
 Jan beings the show as Michael’s direct supervisor. It is clear from the beginning that she has little patience for him. The two impulsively kiss after Michael impresses her with his sales skills in “The Client.” Jan views this as a mistake but Michael begins calling her his girlfriend.

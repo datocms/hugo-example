@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+
+<div class="wrap">
+  <section class="section">
+    <div class="season">
+      <div class="season__image">
+        <img src="{{ .Params.image_url }}" />
+      </div>
+      <div class="season__content">
+        <h2 class="season__title">{{ .Title }}</h2>
+        {{ .Content }}
+        <hr/>
+        <div class="grid">
+          {{ range (sort (where (where .Site.Pages "Section" "episode") ".Params.category" .Title) "Weight" "asc") }}
+            <div class="grid__cell grid__cell--50">
+              {{ partial "episode_preview.html" . }}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
