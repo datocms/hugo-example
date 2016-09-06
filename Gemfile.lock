@@ -9,7 +9,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.4.0)
     blankslate (2.1.2.4)
-    dato (0.1.10)
+    dato (0.1.18)
       activesupport (= 4.2.7.1)
       addressable
       downloadr
@@ -20,7 +20,7 @@ GEM
       thor
       toml
       video_embed
-    domain_name (0.5.20160615)
+    domain_name (0.5.20160826)
       unf (>= 0.0.5, < 1.0.0)
     downloadr (0.0.41)
       addressable (~> 2.3)
