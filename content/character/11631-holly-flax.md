@@ -1,10 +1,10 @@
 +++
+title = "Holly Flax"
 actorname = "Amy Ryan"
 episodes = "17\n"
-image_url = "https://dato-images.imgix.net/151/1471782473-holly.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
-thumbnail_url = "https://dato-images.imgix.net/151/1471782473-holly.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
-title = "Holly Flax"
 weight = 8
+thumbnailurl = "https://dato-images.imgix.net/151/1471782473-holly.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&crop=faces&fit=crop&h=200&w=200"
+imageurl = "https://dato-images.imgix.net/151/1471782473-holly.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&fm=jpg&w=500"
 +++
 
 Holly Takes over for Toby as the Scranton Branches HR rep. Michael immediately becomes smitten with her because they have a similar sense of humor. In “Weight Loss,” Jim thinks the reason Michael and Holly get along so well is because “Holly is kind of a major dork.” Michael falls for her and the two begin dating. When word reaches David Wallace, her has Holly transferred to the Nashua branch.

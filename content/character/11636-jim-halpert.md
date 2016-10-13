@@ -1,10 +1,10 @@
 +++
+title = "Jim Halpert"
 actorname = "John Krasinski"
 episodes = "187\n"
-image_url = "https://dato-images.imgix.net/151/1471782491-jim.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
-thumbnail_url = "https://dato-images.imgix.net/151/1471782491-jim.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
-title = "Jim Halpert"
 weight = 3
+thumbnailurl = "https://dato-images.imgix.net/151/1471782491-jim.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&crop=faces&fit=crop&h=200&w=200"
+imageurl = "https://dato-images.imgix.net/151/1471782491-jim.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&fm=jpg&w=500"
 +++
 
 Jim Halpert was the everyman of Dunder Mifflin. He worked just hard enough not to get fired but not so hard that he stood out.  When not making sales calls he passed the time by pulling pranks on his deskmate Dwight. Jim defined the “slacker, and proud of it” attitude. At first, he had no passion for his job, even being reluctant to call it a career.

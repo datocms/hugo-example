@@ -1,10 +1,10 @@
 +++
+title = "Ryan Howard"
 actorname = "B.J. Novak"
 episodes = "167\n"
-image_url = "https://dato-images.imgix.net/151/1471782461-ryan.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
-thumbnail_url = "https://dato-images.imgix.net/151/1471782461-ryan.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
-title = "Ryan Howard"
 weight = 11
+thumbnailurl = "https://dato-images.imgix.net/151/1471782461-ryan.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&crop=faces&fit=crop&h=200&w=200"
+imageurl = "https://dato-images.imgix.net/151/1471782461-ryan.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&fm=jpg&w=500"
 +++
 
 Ryan is the newest addition to Dunder Mifflin as the temp in Season 1 and witnesses Michael’s inappropriate sense of humor when he fake fires Pam, leaving her in tears. Michael lavishes Ryan with unwanted attention and has a severe mancrush on him, but Ryan finds Michael annoying and does his best to ignore him, unless it benefits him.

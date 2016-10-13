@@ -17,14 +17,14 @@
       <section class="section">
         <div class="character">
           <div class="character__image">
-            {{ if .Params.image_url }}
-              <img src="{{ .Params.image_url }}" />
+            {{ if .Params.imageurl }}
+              <img src="{{ .Params.imageurl }}" />
             {{ end }}
           </div>
           <h1 class="character__title">{{ .Title }}</h1>
           <ul class="meta">
             <li class="meta__item">
-              <strong>Actor:</strong> {{ .Params.actorname }}
+              <strong>Actor:</strong> {{ .Params.actorName }}
             </li>
             <li class="meta__item">
               <strong>Number of episodes:</strong> {{ .Params.episodes }}

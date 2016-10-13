@@ -1,10 +1,10 @@
 +++
+title = "Stanley Hudson"
 actorname = "Leslie David Baker"
 episodes = "187\n"
-image_url = "https://dato-images.imgix.net/151/1471782468-stanley.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
-thumbnail_url = "https://dato-images.imgix.net/151/1471782468-stanley.png?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
-title = "Stanley Hudson"
 weight = 9
+thumbnailurl = "https://dato-images.imgix.net/151/1471782468-stanley.png?auto=compress%2Cformat&ch=DPR%2CWidth&crop=faces&fit=crop&h=200&w=200"
+imageurl = "https://dato-images.imgix.net/151/1471782468-stanley.png?auto=compress%2Cformat&ch=DPR%2CWidth&fm=jpg&w=500"
 +++
 
 Stanley Hudson is actually one of the hardest workers in the office, even if he does start to gather his things a few minutes before his day is officially over. He was usually seen on the phone with customers and has been with Dunder Mifflin for more than 10 years. He could be more personable though since he likes to keep his distance from his co-workers, even Phyllis his deskmate.

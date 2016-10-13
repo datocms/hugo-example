@@ -1,14 +1,14 @@
 +++
-category = "Season 8"
-date = "2011-09-29"
-director = "Charles McDougall"
-episodenumber = 2
-imageurl = "https://dato-images.imgix.net/151/1471788930-wySf5KK9ajFHFbgHdqAXmgBBwDy.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
-palette_url = "https://dato-images.imgix.net/151/1471788930-wySf5KK9ajFHFbgHdqAXmgBBwDy.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
-rating = 7.9
-thumbnail_url = "https://dato-images.imgix.net/151/1471788930-wySf5KK9ajFHFbgHdqAXmgBBwDy.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "The Incentive"
-weight = 148
+episodenumber = 2
+paletteurl = "https://dato-images.imgix.net/151/1471788930-wySf5KK9ajFHFbgHdqAXmgBBwDy.jpg?auto=enhance&ch=DPR%2CWidth&palette=json"
+imageurl = "https://dato-images.imgix.net/151/1471788930-wySf5KK9ajFHFbgHdqAXmgBBwDy.jpg?auto=compress%2Cformat&ch=DPR%2CWidth"
+thumbnailurl = "https://dato-images.imgix.net/151/1471788930-wySf5KK9ajFHFbgHdqAXmgBBwDy.jpg?auto=enhance&ch=DPR%2CWidth&fit=crop&fm=jpg&h=280&w=500"
+date = "2011-09-29"
+weight = 47
+rating = 7.9
+director = "Charles McDougall"
+category = "Season 8"
 +++
 
 Under pressure from Robert to increase branch sales, Andy offers an incentive program to the sales staff, which backfires on him when he offers a very personal grand prize.

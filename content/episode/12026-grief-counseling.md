@@ -1,14 +1,14 @@
 +++
-category = "Season 3"
-date = "2006-10-12"
-director = "Roger Nygard"
-episodenumber = 4
-imageurl = "https://dato-images.imgix.net/151/1471789165-3WK426lrl3TTP01lArMbkiIUJMD.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
-palette_url = "https://dato-images.imgix.net/151/1471789165-3WK426lrl3TTP01lArMbkiIUJMD.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
-rating = 7.9
-thumbnail_url = "https://dato-images.imgix.net/151/1471789165-3WK426lrl3TTP01lArMbkiIUJMD.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "Grief Counseling"
-weight = 32
+episodenumber = 4
+paletteurl = "https://dato-images.imgix.net/151/1471789165-3WK426lrl3TTP01lArMbkiIUJMD.jpg?auto=enhance&ch=DPR%2CWidth&palette=json"
+imageurl = "https://dato-images.imgix.net/151/1471789165-3WK426lrl3TTP01lArMbkiIUJMD.jpg?auto=compress%2Cformat&ch=DPR%2CWidth"
+thumbnailurl = "https://dato-images.imgix.net/151/1471789165-3WK426lrl3TTP01lArMbkiIUJMD.jpg?auto=enhance&ch=DPR%2CWidth&fit=crop&fm=jpg&h=280&w=500"
+date = "2006-10-12"
+weight = 164
+rating = 7.9
+director = "Roger Nygard"
+category = "Season 3"
 +++
 
 Michael takes on the role of office grief counselor when he learns that his old boss has died.

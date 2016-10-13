@@ -1,10 +1,10 @@
 +++
+title = "Karen Filippelli"
 actorname = "Rashida Jones"
 episodes = "26\n"
-image_url = "https://dato-images.imgix.net/151/1471782388-karen.gif?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
-thumbnail_url = "https://dato-images.imgix.net/151/1471782388-karen.gif?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
-title = "Karen Filippelli"
 weight = 23
+thumbnailurl = "https://dato-images.imgix.net/151/1471782388-karen.gif?auto=compress%2Cformat&ch=DPR%2CWidth&crop=faces&fit=crop&h=200&w=200"
+imageurl = "https://dato-images.imgix.net/151/1471782388-karen.gif?auto=compress%2Cformat&ch=DPR%2CWidth&fm=jpg&w=500"
 +++
 
 Karen Filippelli transferred to Scranton from the Stamford branch in the Season 3 episode “The Merger.” She begins a relationship with Jim much to the dismay of Pam who also has feelings for him. Pam initially acts cold to Karen because of this but starts to feel sorry for her in “Benihana Christmas” after Angela banishes Karen from the Party Planning Committee.

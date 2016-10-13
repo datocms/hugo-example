@@ -1,14 +1,14 @@
 +++
-category = "Season 2"
-date = "2006-03-02"
-director = "Charles McDougall"
-episodenumber = 17
-imageurl = "https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9piZBltOL.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
-palette_url = "https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9piZBltOL.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
-rating = 8.3
-thumbnail_url = "https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9piZBltOL.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "Dwight's Speech"
-weight = 22
+episodenumber = 17
+paletteurl = "https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9piZBltOL.jpg?auto=enhance&ch=DPR%2CWidth&palette=json"
+imageurl = "https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9piZBltOL.jpg?auto=compress%2Cformat&ch=DPR%2CWidth"
+thumbnailurl = "https://dato-images.imgix.net/151/1471789183-ghaQnVkCvTqTD2iyeu9piZBltOL.jpg?auto=enhance&ch=DPR%2CWidth&fit=crop&fm=jpg&h=280&w=500"
+date = "2006-03-02"
+weight = 173
+rating = 8.3
+director = "Charles McDougall"
+category = "Season 2"
 +++
 
 Michael coaches pompous Dwight on the finer art of public speaking after being named as Salesman of the Year.

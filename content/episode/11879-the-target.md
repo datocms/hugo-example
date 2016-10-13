@@ -1,14 +1,14 @@
 +++
-category = "Season 9"
-date = "2012-11-29"
-director = "Brent Forrester"
-episodenumber = 8
-imageurl = "https://dato-images.imgix.net/151/1471788869-e6hqm5G4Y7GE4Ii9o5reSGuu4RF.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
-palette_url = "https://dato-images.imgix.net/151/1471788869-e6hqm5G4Y7GE4Ii9o5reSGuu4RF.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
-rating = 7.6
-thumbnail_url = "https://dato-images.imgix.net/151/1471788869-e6hqm5G4Y7GE4Ii9o5reSGuu4RF.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "The Target"
-weight = 178
+episodenumber = 8
+paletteurl = "https://dato-images.imgix.net/151/1471788869-e6hqm5G4Y7GE4Ii9o5reSGuu4RF.jpg?auto=enhance&ch=DPR%2CWidth&palette=json"
+imageurl = "https://dato-images.imgix.net/151/1471788869-e6hqm5G4Y7GE4Ii9o5reSGuu4RF.jpg?auto=compress%2Cformat&ch=DPR%2CWidth"
+thumbnailurl = "https://dato-images.imgix.net/151/1471788869-e6hqm5G4Y7GE4Ii9o5reSGuu4RF.jpg?auto=enhance&ch=DPR%2CWidth&fit=crop&fm=jpg&h=280&w=500"
+date = "2012-11-29"
+weight = 17
+rating = 7.6
+director = "Brent Forrester"
+category = "Season 9"
 +++
 
 Angela orders a hit on Oscar for cheating with her husband, the office makes a tower with their customer complaint cards, Jim wines and dines Stanley and Phyllis in exchange for a favor, and Pam begins her mural.

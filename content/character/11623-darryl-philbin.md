@@ -1,10 +1,10 @@
 +++
+title = "Darryl Philbin"
 actorname = "Craig Robinson"
 episodes = "119\n"
-image_url = "https://dato-images.imgix.net/151/1471782434-darryl.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
-thumbnail_url = "https://dato-images.imgix.net/151/1471782434-darryl.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
-title = "Darryl Philbin"
 weight = 16
+thumbnailurl = "https://dato-images.imgix.net/151/1471782434-darryl.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&crop=faces&fit=crop&h=200&w=200"
+imageurl = "https://dato-images.imgix.net/151/1471782434-darryl.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&fm=jpg&w=500"
 +++
 
 Darryl is the warehouse foreman and views his job as more difficult and dangerous than the office workers. As warehouse manager, he is concerned with safety and making sure orders get out on time and sees Michael’s antics as the biggest obstacle to those two things. In “Boys and Girls” Michael nearly destroys the warehouse and leaves Darryl to clean it up.

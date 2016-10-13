@@ -1,10 +1,10 @@
 +++
+title = "Roy Anderson"
 actorname = "David Denman"
 episodes = "31\n"
-image_url = "https://dato-images.imgix.net/151/1471782385-roy.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
-thumbnail_url = "https://dato-images.imgix.net/151/1471782385-roy.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
-title = "Roy Anderson"
 weight = 24
+thumbnailurl = "https://dato-images.imgix.net/151/1471782385-roy.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&crop=faces&fit=crop&h=200&w=200"
+imageurl = "https://dato-images.imgix.net/151/1471782385-roy.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&fm=jpg&w=500"
 +++
 
 Introduced in “The Pilot”, Roy works in the Dunder Mifflin warehouse and is Pam’s finance. He knows that Jim and Pam are friend’s but is unaware that Jim has romantic feelings for her. He is engaged to Pam for four years before he even sets a wedding date so Pam breaks of their engagement in between Season 2 and Season 3.

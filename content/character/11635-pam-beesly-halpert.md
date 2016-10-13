@@ -1,10 +1,10 @@
 +++
+title = "Pam Beesly-Halpert"
 actorname = "Jenna Fischer"
 episodes = "187\n"
-image_url = "https://dato-images.imgix.net/151/1471782487-pam.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
-thumbnail_url = "https://dato-images.imgix.net/151/1471782487-pam.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
-title = "Pam Beesly-Halpert"
 weight = 4
+thumbnailurl = "https://dato-images.imgix.net/151/1471782487-pam.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&crop=faces&fit=crop&h=200&w=200"
+imageurl = "https://dato-images.imgix.net/151/1471782487-pam.jpg?auto=compress%2Cformat&ch=DPR%2CWidth&fm=jpg&w=500"
 +++
 
 Pam Beasley was the receptionist for Dunder Mifflin. She started the show engaged to Roy who worked in the warehouse. Pam struggled with her feelings for Jim through the first few seasons but time would see them become a couple, get married, and start a family together.  

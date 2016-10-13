@@ -1,4 +1,5 @@
-baseurl = "https://datocms-hugo-example.netlify.com/"
+baseurl = "/"
+# https://datocms-hugo-example.netlify.com/
 languageCode = "en-us"
 
 [taxonomies]
@@ -6,5 +7,4 @@ season = "seasons"
 
 # datocms:start
 title = "Dundler Mifflin"
-
 # datocms:end

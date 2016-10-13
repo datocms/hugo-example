@@ -1,10 +1,10 @@
 +++
+title = "Michael Scott"
 actorname = "Steve Carell"
 episodes = "138\n"
-image_url = "https://dato-images.imgix.net/151/1471782497-michael.jpeg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&w=500&fm=jpg"
-thumbnail_url = "https://dato-images.imgix.net/151/1471782497-michael.jpeg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat&fit=crop&crop=faces&w=200&h=200"
-title = "Michael Scott"
 weight = 1
+thumbnailurl = "https://dato-images.imgix.net/151/1471782497-michael.jpeg?auto=compress%2Cformat&ch=DPR%2CWidth&crop=faces&fit=crop&h=200&w=200"
+imageurl = "https://dato-images.imgix.net/151/1471782497-michael.jpeg?auto=compress%2Cformat&ch=DPR%2CWidth&fm=jpg&w=500"
 +++
 
 Explaining why Michael is the best character on the office is like explaining why you need more than just snakes and sparklers for your firework stand. Giving Michael Scott his own personal camera crew must have been his dream come true.

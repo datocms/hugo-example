@@ -1,14 +1,14 @@
 +++
-category = "Season 8"
-date = "2011-11-03"
-director = "Troy Miller"
-episodenumber = 6
-imageurl = "https://dato-images.imgix.net/151/1471788921-iTkMnAZhniHcUMgQZHmisaHnZDp.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
-palette_url = "https://dato-images.imgix.net/151/1471788921-iTkMnAZhniHcUMgQZHmisaHnZDp.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
-rating = 7.6
-thumbnail_url = "https://dato-images.imgix.net/151/1471788921-iTkMnAZhniHcUMgQZHmisaHnZDp.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "Doomsday"
-weight = 152
+episodenumber = 6
+paletteurl = "https://dato-images.imgix.net/151/1471788921-iTkMnAZhniHcUMgQZHmisaHnZDp.jpg?auto=enhance&ch=DPR%2CWidth&palette=json"
+imageurl = "https://dato-images.imgix.net/151/1471788921-iTkMnAZhniHcUMgQZHmisaHnZDp.jpg?auto=compress%2Cformat&ch=DPR%2CWidth"
+thumbnailurl = "https://dato-images.imgix.net/151/1471788921-iTkMnAZhniHcUMgQZHmisaHnZDp.jpg?auto=enhance&ch=DPR%2CWidth&fit=crop&fm=jpg&h=280&w=500"
+date = "2011-11-03"
+weight = 43
+rating = 7.6
+director = "Troy Miller"
+category = "Season 8"
 +++
 
 Dwight installs a "Doomsday Device" on the office computers that could get everyone fired if they make too many mistakes, while Gabe tries to hit on one of Darryl's warehouse employees.

@@ -1,14 +1,14 @@
 +++
-category = "Season 2"
-date = "2006-03-30"
-director = "Ken Whittingham"
-episodenumber = 19
-imageurl = "https://dato-images.imgix.net/151/1471789180-5wocahQtbE9u6d3JTBud0IlY6HQ.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=compress%2Cformat"
-palette_url = "https://dato-images.imgix.net/151/1471789180-5wocahQtbE9u6d3JTBud0IlY6HQ.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&palette=json"
-rating = 7.9
-thumbnail_url = "https://dato-images.imgix.net/151/1471789180-5wocahQtbE9u6d3JTBud0IlY6HQ.jpg?ixlib=rb-1.1.0&ch=DPR%2CWidth&auto=enhance&w=500&h=280&fit=crop&fm=jpg"
 title = "Michael's Birthday"
-weight = 24
+episodenumber = 19
+paletteurl = "https://dato-images.imgix.net/151/1471789180-5wocahQtbE9u6d3JTBud0IlY6HQ.jpg?auto=enhance&ch=DPR%2CWidth&palette=json"
+imageurl = "https://dato-images.imgix.net/151/1471789180-5wocahQtbE9u6d3JTBud0IlY6HQ.jpg?auto=compress%2Cformat&ch=DPR%2CWidth"
+thumbnailurl = "https://dato-images.imgix.net/151/1471789180-5wocahQtbE9u6d3JTBud0IlY6HQ.jpg?auto=enhance&ch=DPR%2CWidth&fit=crop&fm=jpg&h=280&w=500"
+date = "2006-03-30"
+weight = 171
+rating = 7.9
+director = "Ken Whittingham"
+category = "Season 2"
 +++
 
 In celebration of his birthday, Michael makes a mandatory invite of the staff during the workday to go ice skating.
