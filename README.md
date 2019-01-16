@@ -10,7 +10,8 @@ To read more about the `datocms-client` package, please refer to [its documentat
 
 ```
 # install dependencies
-npm install
+go build github.com/gohugoio/hugo
+yarn install
 
 # download latest data from DatoCMS site
 dato dump --token=6d71de8571ec5a8d925c83b4a5087813db3242233d187758b6

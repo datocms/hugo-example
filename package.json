@@ -1,0 +1,27 @@
+{
+  "name": "hugo-datocms-demo",
+  "description": "Hugo DatoCMS example",
+  "version": "1.0.0",
+  "author": "Stefano Verna <s.verna@datocms.com>",
+  "keywords": [
+    "hugo"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "build:hugo": "NODE_ENV=production hugo --config config.prod.toml",
+    "build:assets": "NODE_ENV=production webpack -p --config webpack.prod.config.js",
+    "build:datocms": "dato dump",
+    "build": "npm run build:datocms && npm run build:hugo && npm run build:assets",
+    "start:assets": "NODE_ENV=development webpack-dev-server --open --content-base public/ --config webpack.dev.config.js",
+    "start:hugo": "hugo -w --config config.dev.toml",
+    "start:datocms": "dato dump --watch",
+    "start:livereload": "livereload public -e 'html' -p 5678",
+    "start": "dato check && concurrently -p \"[{name}]\" -c \"blue,red,green,yellow\" -k -n hugo,webpack,livereload,dato \"npm run start:hugo\" \"npm run start:assets\" \"npm run start:livereload\" \"npm run start:datocms\""
+  },
+  "devDependencies": {
+    "datocms-client": "^0.8.11",
+    "ellipsize": "^0.1.0",
+    "sort-by": "^1.2.0"
+  }
+}
