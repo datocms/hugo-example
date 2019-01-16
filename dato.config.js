@@ -13,7 +13,7 @@ module.exports = (dato, root) => {
   root.directory('content/season', dir => {
     dato.seasons.forEach(season => {
       dir.createPost(
-        `${season.slug()}.md`, 'yaml', {
+        `season-${season.slug || season.id}.md`, 'yaml', {
           frontmatter: {
             title: season.name,
             imageurl: season.image.url({ w: 400}),
@@ -30,7 +30,7 @@ module.exports = (dato, root) => {
 
   root.directory('content/episode', dir => {
     dato.episodes.sort(by('-id')).forEach((episode, i) => {
-      dir.createPost(`${episode.slug()}.md`, 'toml', {
+      dir.createPost(`episode-${episode.slug || episode.id}.md`, 'toml', {
         frontmatter: {
           title: episode.title,
           episodenumber: episode.episodeNumber,
@@ -50,7 +50,7 @@ module.exports = (dato, root) => {
 
   root.directory('content/character', dir => {
     dato.characters.forEach(character => {
-      dir.createPost(`${character.slug()}.md`, 'toml', {
+      dir.createPost(`character-${character.slug || character.id}.md`, 'toml', {
         frontmatter: {
           title: character.name,
           actorname: character.actorName,
