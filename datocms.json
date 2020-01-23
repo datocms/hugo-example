@@ -1,0 +1,9 @@
+{
+  "name": "Dundler Mifflin",
+  "previewImage": "https://raw.githubusercontent.com/datocms/jekyll-example/master/screenshot.png",
+  "templateId": "151",
+  "deploymentType": "netlify",
+  "netlifyBuildCommand": "yarn build",
+  "datocmsApiTokenEnvName": "DATO_API_TOKEN",
+  "netlifyBuildDirectory": "build"
+}
