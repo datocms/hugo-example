@@ -8,7 +8,11 @@ To read more about the `datocms-client` package, please refer to [its documentat
 
 ## Usage
 
-First, install the dependencies of this project:
+First, setup the DatoCMS project and schema with this button:
+
+[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=datocms/hugo-example)
+
+Then install the dependencies of this project:
 
 ```
 yarn install
