@@ -8,16 +8,31 @@ To read more about the `datocms-client` package, please refer to [its documentat
 
 ## Usage
 
-```
-# install dependencies
-npm install
+First, install the dependencies of this project:
 
-# download latest data from DatoCMS site
-dato dump --token=6d71de8571ec5a8d925c83b4a5087813db3242233d187758b6
-
-# build Hugo site
-hugo
 ```
+yarn install
+```
+
+Add an `.env` file containing the read-only API token of your DatoCMS site:
+
+```
+echo 'DATO_API_TOKEN=abc123' >> .env
+```
+
+Then, to run this website in development mode (with live-reload):
+
+```
+yarn start
+```
+
+To build the final, production ready static website:
+
+```
+yarn build
+```
+
+The final result will be saved in the `public` directory.
 
 ## Website preview
 

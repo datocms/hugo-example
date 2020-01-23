@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 
 [taxonomies]
-season = "seasons"
+  season = "seasons"
 
 # datocms:start
 title = "Dundler Mifflin"

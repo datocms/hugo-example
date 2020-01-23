@@ -7,7 +7,7 @@
     "build:hugo": "hugo --config config.toml",
     "build:datocms": "dato dump",
     "build": "yarn run build:datocms && yarn run build:hugo",
-    "start:hugo": "hugo -w --config config.toml",
+    "start:hugo": "hugo server --config config.toml",
     "start:datocms": "dato dump --watch",
     "start:livereload": "livereload public -e 'html' -p 5678",
     "start": "mkdir -p content && dato check && concurrently -p \"[{name}]\" -c \"blue,green,yellow\" -k -n hugo,livereload,dato \"yarn run start:hugo\" \"yarn run start:livereload\" \"yarn run start:datocms\""
