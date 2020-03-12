@@ -1,9 +1,9 @@
 {
-  "name": "Dundler Mifflin",
+  "name": "Hugo DatoCMS wiki",
   "previewImage": "https://raw.githubusercontent.com/datocms/jekyll-example/master/screenshot.png",
   "templateId": "151",
-  "deploymentType": "netlify",
-  "netlifyBuildCommand": "yarn build",
+  "deploymentType": "static",
+  "buildCommand": "yarn build",
   "datocmsApiTokenEnvName": "DATO_API_TOKEN",
-  "netlifyBuildDirectory": "build"
+  "buildDirectory": "build"
 }
