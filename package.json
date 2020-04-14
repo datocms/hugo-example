@@ -19,7 +19,7 @@
     "sort-by": "^1.2.0"
   },
   "devDependencies": {
-    "concurrently": "5.0.0",
-    "datocms-client": "^3.0.3"
+    "concurrently": "5.1.0",
+    "datocms-client": "^3.0.19"
   }
 }
