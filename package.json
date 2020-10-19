@@ -6,11 +6,11 @@
   "scripts": {
     "build:hugo": "hugo --config config.toml",
     "build:datocms": "dato dump",
-    "build": "yarn run build:datocms && yarn run build:hugo",
+    "build": "npm run build:datocms && npm run build:hugo",
     "start:hugo": "hugo server --config config.toml",
-    "start:datocms": "./node_modules/datocms-client/bin/dato.js dump --watch",
+    "start:datocms": "npx dato dump --watch",
     "start:livereload": "livereload public -e 'html' -p 5678",
-    "start": "mkdir -p content && dato check && concurrently -p \"[{name}]\" -c \"blue,green,yellow\" -k -n hugo,livereload,dato \"yarn run start:hugo\" \"yarn run start:livereload\" \"yarn run start:datocms\""
+    "start": "mkdir -p content && npx dato check && concurrently -p \"[{name}]\" -c \"blue,green,yellow\" -k -n hugo,livereload,dato \"npm run start:hugo\" \"npm run start:livereload\" \"npm run start:datocms\""
   },
   "dependencies": {
     "ellipsize": "^0.1.0",
@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "concurrently": "5.1.0",
-    "datocms-client": "^3.0.19"
+    "datocms-client": "^3.1.3"
   }
 }
