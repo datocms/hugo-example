@@ -15,8 +15,7 @@
   "dependencies": {
     "ellipsize": "^0.1.0",
     "imagesloaded": "^4.1.4",
-    "livereload": "0.8.2",
-    "sort-by": "^1.2.0"
+    "livereload": "0.8.2"
   },
   "devDependencies": {
     "concurrently": "5.1.0",

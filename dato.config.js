@@ -1,4 +1,3 @@
-const by = require("sort-by");
 const ellipsize = require("ellipsize");
 
 module.exports = (dato, root) => {
@@ -27,33 +26,37 @@ module.exports = (dato, root) => {
   });
 
   root.directory("content/episode", (dir) => {
-    dato.episodes.sort(by("-id")).forEach((episode, i) => {
-      dir.createPost(`${episode.slug}.md`, "toml", {
-        frontmatter: {
-          title: episode.title,
-          episodenumber: episode.episodeNumber,
-          paletteurl:
-            episode.image &&
-            episode.image.url({ auto: "enhance", palette: "json" }),
-          imageurl: episode.image && episode.image.url(),
-          thumbnailurl:
-            episode.image &&
-            episode.image.url({
-              w: 500,
-              h: 280,
-              fit: "crop",
-              auto: "enhance",
-              fm: "jpg",
-            }),
-          date: episode.firstAired.toMap(),
-          weight: i,
-          rating: episode.rating,
-          director: episode.director,
-          category: episode.season.name,
-        },
-        content: episode.description,
+    dato.episodes
+      .sort((a, b) => {
+        return b.id - a.id;
+      })
+      .forEach((episode, i) => {
+        dir.createPost(`${episode.slug}.md`, "toml", {
+          frontmatter: {
+            title: episode.title,
+            episodenumber: episode.episodeNumber,
+            paletteurl:
+              episode.image &&
+              episode.image.url({ auto: "enhance", palette: "json" }),
+            imageurl: episode.image && episode.image.url(),
+            thumbnailurl:
+              episode.image &&
+              episode.image.url({
+                w: 500,
+                h: 280,
+                fit: "crop",
+                auto: "enhance",
+                fm: "jpg",
+              }),
+            date: episode.firstAired.toMap(),
+            weight: i,
+            rating: episode.rating,
+            director: episode.director,
+            category: episode.season.name,
+          },
+          content: episode.description,
+        });
       });
-    });
   });
 
   root.directory("content/character", (dir) => {
