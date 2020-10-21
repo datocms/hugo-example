@@ -3,7 +3,7 @@
   "previewImage": "https://raw.githubusercontent.com/datocms/jekyll-example/master/screenshot.png",
   "templateId": "151",
   "deploymentType": "static",
-  "buildCommand": "yarn build",
+  "buildCommand": "npm run build",
   "datocmsApiTokenEnvName": "DATO_API_TOKEN",
   "buildDirectory": "build"
 }
