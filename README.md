@@ -4,7 +4,7 @@ This repository contains a Hugo website integrated with a DatoCMS site. The site
 
 Content stored in a DatoCMS site gets translated into local Hugo files using a NodeJs module called `datocms-client` you need to add to your Hugo project. The translation rules are defined in file placed in your project root folder called [dato.config.js](https://github.com/datocms/hugo-example/blob/master/dato.config.js).
 
-To read more about the `datocms-client` package, please refer to [its documentation](https://github.com/datocms/js-datocms-client/blob/master/docs/dato-cli.md).
+To read more about the `datocms-client` package, please refer to [its documentation](https://www.datocms.com/docs/hugo).
 
 ## Usage
 
